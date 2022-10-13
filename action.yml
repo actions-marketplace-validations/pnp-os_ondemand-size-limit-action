@@ -1,6 +1,6 @@
-name: 'size-limit-action'
-description: 'size-limit action'
-author: 'Andres Alvarez <a.alvarez.sor@gmail.com>'
+name: 'on-demand-size-limit-action'
+description: 'On Demand size-limit action'
+author: 'Parth Patel <parth.pnp@gmail.com>'
 branding:
   icon: 'activity'
   color: 'green'
